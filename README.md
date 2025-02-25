@@ -47,7 +47,7 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,ts" />
+			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,go" />
 		</a>
 	</div>
 </div>
@@ -55,7 +55,7 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=bash,docker,git,vim,vscode,discord" />
+			<img src="https://skillicons.dev/icons?i=bash,docker,git,vscode" />
 		</a>
 	</div>
 </div>
