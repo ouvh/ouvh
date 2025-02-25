@@ -22,8 +22,8 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ouvh&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ouvh&theme=radical" />
+  <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=ouvh&show_icons=true&theme=radical" />
+  <img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ouvh&theme=radical" />
 </p>
 
 ---
