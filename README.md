@@ -55,7 +55,7 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=bash,docker,git,vscode" />
+			<img src="https://skillicons.dev/icons?i=bash,docker,git,vscode,postman" />
 		</a>
 	</div>
 </div>
