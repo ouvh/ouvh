@@ -47,7 +47,7 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,go" />
+			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,go,firebase,arduino,assembly" />
 		</a>
 	</div>
 </div>
@@ -68,10 +68,11 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+	<!--
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  </a> -->
+  <a href="mailto:oussama.laaroussi@um6p.ma">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
