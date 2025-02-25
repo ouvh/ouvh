@@ -47,7 +47,7 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,go,firebase,arduino,risk5,vue" />
+			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,go,firebase,arduino,anaconda,vue,maven" />
 		</a>
 	</div>
 </div>
