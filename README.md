@@ -65,9 +65,9 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 ## 📫 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+   <!-- <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> -->
 	<!--
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
