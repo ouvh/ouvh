@@ -44,14 +44,21 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 
 ## 🛠 Tech Stack  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,ts" />
+		</a>
+	</div>
+</div>
+
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=bash,docker,git,vim,vscode,discord" />
+		</a>
+	</div>
+</div>
 
 ---
 
@@ -68,3 +75,4 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
