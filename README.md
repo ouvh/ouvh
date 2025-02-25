@@ -10,7 +10,7 @@ at UM6P College of Computing with a deep passion for Mathematics, Artificial Int
 ## 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ouvh&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaLaaroussi&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ouvh&theme=radical" />
 </p>
 
 ## 💡 Top Languages  
