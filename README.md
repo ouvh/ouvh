@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🚀 About Me
+Hi there! I'm Oussama Laaroussi, a Computer Science student 🎓 
+at UM6P College of Computing with a deep passion for Mathematics, Artificial Intelligence 🤖, and Scientific Research 🔬. I love tackling algorithmic challenges 💡, exploring cutting-edge AI technologies, and working on innovative projects that push the boundaries of what's possible.
+
+🌱 I’m currently learning about advanced AI techniques, reinforcement learning, and scientific research methodologies. I'm also exploring Golang for AI, DevOps practices.
+
 
 <!--
 **ouvh/ouvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
