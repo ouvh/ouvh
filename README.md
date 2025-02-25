@@ -4,16 +4,7 @@ at UM6P College of Computing with a deep passion for Mathematics, Artificial Int
 
 🌱 I’m currently learning about advanced AI techniques, reinforcement learning, and scientific research methodologies. I'm also exploring Golang for AI, DevOps practices.
 
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=ouvh&theme=tokyonight&show_icons=true" height=150 />
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouvh&langs_count=5&theme=tokyonight" height=150 />
-</a>
-<br>
-</div>
-</div>
+
 
 
 ## 📊 GitHub Stats  
@@ -26,6 +17,18 @@ at UM6P College of Computing with a deep passion for Mathematics, Artificial Int
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouvh&layout=compact&theme=radical" />
 </p>
+
+## 🔥 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouvh&theme=radical" />
+</p>
+
+## 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <!--
 **ouvh/ouvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
