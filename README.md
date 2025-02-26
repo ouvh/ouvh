@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FF00&center=true&width=500&height=50&lines=🌌+Exploring+AI+and+the+Universe!;🚀+Pushing+the+Boundaries+of+Tech!;💡+Innovating+with+Mathematics+and+AI!">
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Oussama Laaroussi</h1>
 
 <p align="center">
