@@ -85,3 +85,8 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/OussamaLaaroussi/ouvh/blob/main/astro.gif" width="100%">
+</p>
+
