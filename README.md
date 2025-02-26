@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FF00&center=true&width=500&height=50&lines=🌌+Exploring+AI+and+the+Universe!;🚀+Pushing+the+Boundaries+of+Tech!;💡+Innovating+with+Mathematics+and+AI!">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%">
-</p>
+
 
 <h1 align="center">Hi there! 👋 I'm Oussama Laaroussi</h1>
 
@@ -86,7 +84,4 @@ I am a **Computer Science student 🎓** at **UM6P College of Computing**, with 
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/OussamaLaaroussi/ouvh/blob/main/astro.gif" width="100%">
-</p>
 
