@@ -19,8 +19,8 @@
 I am a **Computer Science student 🎓** at **UM6P College of Computing**, with a strong passion for **Mathematics, Artificial Intelligence 🤖, and Scientific Research 🔬**. I thrive on solving **algorithmic challenges 💡**, exploring **cutting-edge AI technologies**, and working on **innovative projects** that push the boundaries of technology.  
 
 🌱 **I’m currently learning:**  
-- Advanced AI techniques, **Machine Learning & Reinforcement Learning**  
-- **Golang for AI**, **DevOps practices**, and **Cloud Computing**  
+- Advanced AI techniques, **Machine Learning & Reinforcement Learning**
+- Research topic in Diverse Areas: graph theory, similarity search, deep learning, optimization
 
 🚀 **My goal:** To contribute to groundbreaking **AI research and technological advancements** that shape the future!  
 
