@@ -9,7 +9,7 @@
 <p align="center">
   🎓 Computer Science Student at <strong>UM6P College of Computing</strong>  
   💡 Passionate about <strong>Mathematics, Artificial Intelligence 🤖, and Scientific Research 🔬</strong>  
-  🚀 Exploring **Algorithmic Challenges**, **Reinforcement Learning**, and **DevOps**  
+  🚀 Exploring **Algorithmic Challenges**, **Reinforcement Learning** 
 </p>
 
 ---
